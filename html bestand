@@ -1,0 +1,47 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1> Hallo. </h1>
+
+<h2> Kleinere tekst </h2>
+
+<p> Paragraaf </p>
+
+<ul>
+	<li> Even </li>
+	<li> Kijken </li>
+	<li> Of </li>
+	<li> 'ie </li>
+	<li> Het </li>
+	<li> Doet </li>
+</ul>
+
+<table>
+    <tr>
+        <td>1.1	</td>
+        <td>1.2	</td>
+        <td>1.3	</td>
+    </tr>
+    <tr>
+        <td>2.1	</td>
+        <td>2.2	</td>
+        <td>2.3	</td>
+    </tr>
+    <tr>
+        <td>3.1	</td>
+        <td>3.2	</td>
+        <td>3.3	</td>
+    </tr>
+    <tr>
+        <td>4.1	</td>
+        <td>4.2	</td>
+        <td>4.3	</td>
+    </tr>
+</table>
+
+</body>
+</html>
