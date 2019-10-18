@@ -2,14 +2,14 @@ body {
 	font-size: 55px;
   background-color: beige
   ;
-  color: white;
+  color: green;
 
 }
 h2 {
 	color:blue;
 }
 p {
-	color:White;
+	color:green;
 }
 	
 *, #content :ul, #content :li {
