@@ -1,5 +1,6 @@
 #grad {
   background-image: linear-gradient(red, blue);
+	color: #0d2e8c
 }
 
 *, #content :ul, #content :li {
@@ -14,12 +15,12 @@
 
 		h1 {
 			margin-bottom: 20px;
-			color: white;
+			color: #0d2e8c;
 			text-transform: uppercase;
 			font-size: 55px;
 			font-weight: 100;
 			letter-spacing: 30px;
-			text-shadow: 3px 3px 5px #000;
+			text-shadow: 3px 3px 5px #6b00f9;
 		}
 
 		 ul {
