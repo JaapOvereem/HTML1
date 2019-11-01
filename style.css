@@ -10,7 +10,8 @@
 		body {
 			font: 300 15px/1.2 "Helvetica Neue", Helvetica, Arial, sans-serif;
 			background: beige;
-			margin: 20px;
+			margin-left: 200px;
+			margin-right: 200px;
 		}
 
 		h1 {
